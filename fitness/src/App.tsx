@@ -1,6 +1,8 @@
 import { FlatTree } from "framer-motion";
 import { useEffect, useState } from "react";
 import Benefits from "./scenes/Benefits/Benefits";
+import ContactUs from "./scenes/ContactUs/ContactUs";
+import Footer from "./scenes/Footer/Footer";
 import Home from "./scenes/Home/Home";
 import Navbar from "./scenes/Navbar/Navbar";
 import OurClasses from "./scenes/OurClasses/OurClasses";
@@ -43,6 +45,8 @@ function App() {
       <Home setSelectedPage={setSelectedPage}/>
       <Benefits setSelectedPage={setSelectedPage}/>
       <OurClasses setSelectedPage={setSelectedPage}/>
+      <ContactUs setSelectedPage={setSelectedPage}/>
+      <Footer/>
     </div>
   );
 }

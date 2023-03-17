@@ -48,7 +48,7 @@ function Benefits({ setSelectedPage }: Props) {
       >
         {/* HEADER */}
         <div className="md:my-5 md:w-3/5">
-          <H1Text>MORE THAN JUST A GYM</H1Text>
+          <H1Text>MORE THAN JUST A {" "}<span className="text-primary-500">GYM</span>.</H1Text>
           <p className="my-5 text-sm">
             At our gym, we pride ourselves on providing top-of-the-line
             equipment and infrastructure to support our members' fitness
