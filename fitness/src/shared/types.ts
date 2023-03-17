@@ -7,8 +7,14 @@ export enum SelectedPage {
   ContactUs = "contactus",
 }
 
-export interface BenefitType{
+export interface BenefitType {
   icon: JSX.Element;
   title: string;
   description: string;
+}
+
+export interface ClassType {
+  name:string,
+  content?:string,
+  image:string,
 }
