@@ -37,13 +37,13 @@ EVOGYM is a popular chain of studio gyms that offer personalized fitness program
 Clone the Repo
 
 ```bash
-git clone https://link-to-project
+git clone https://github.com/Nipun2403/evogym.git
 ```
 
 Go to the project directory
 
 ```bash
-cd project-folder
+cd evogym
 ```
 
 Install dependencies
