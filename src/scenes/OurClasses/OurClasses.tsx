@@ -25,7 +25,7 @@ const classes: ClassType[] = [
     image: Image2,
   },
   {
-    name: "Ab Cor Classes",
+    name: "Ab Core Classes",
     content:
       "uis nostrud exercitation ullamco labor nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
     image: Image3,
