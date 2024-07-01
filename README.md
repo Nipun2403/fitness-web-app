@@ -62,7 +62,7 @@ Project will be accessible at the Default Route :- http://localhost:5173
 
 ![Seperator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) 
 
-## <details><summary>🧩 More Images</summary><br>![image](https://user-images.githubusercontent.com/110818273/226011364-d4e0b80c-c01c-4a51-81e7-a21a7bfc8a5a.png)![image](https://user-images.githubusercontent.com/110818273/226011915-b33397aa-c8b1-445e-ba5a-2894c9a3d26a.png)![image](https://user-images.githubusercontent.com/110818273/226011702-27e6b4d8-3ef6-4dfc-ac1f-d1e855b53621.png) ![image](https://user-images.githubusercontent.com/110818273/226022964-9f09da4e-f854-4156-b294-188ad3739fbb.png)
+## <details><summary>🧩 More Images</summary><br>![image](https://user-images.githubusercontent.com/110818273/226010579-5f60a6fc-05e2-4290-8028-084aa725c740.png)![image](https://user-images.githubusercontent.com/110818273/226011364-d4e0b80c-c01c-4a51-81e7-a21a7bfc8a5a.png)![image](https://user-images.githubusercontent.com/110818273/226011915-b33397aa-c8b1-445e-ba5a-2894c9a3d26a.png)![image](https://user-images.githubusercontent.com/110818273/226011702-27e6b4d8-3ef6-4dfc-ac1f-d1e855b53621.png) ![image](https://user-images.githubusercontent.com/110818273/226022964-9f09da4e-f854-4156-b294-188ad3739fbb.png)
 </details>
 
 
